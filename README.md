@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1wOmkcnc3OIGgEB6cX4wtW&ust=1717188431414000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiK-dOftoYDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Pereruan Nabaala</h1>
 <h3 align="center">A passionate Python/Flask developer from Kenya</h3>
 
