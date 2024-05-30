@@ -1,4 +1,4 @@
-[![MasterHead]()
+[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhscGx5ZzJucGF1OTQ1enhuZnNiYmo1MDloZWRnY3JtM3prNmJoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EWyszhJ2kL3ceQuD2/giphy.webp)
 <h1 align="center">Hi 👋, I'm Pereruan Nabaala</h1>
 <h3 align="center">A passionate Python/Flask developer from Kenya</h3>
 <img align="right" alt="coding" width="404" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRhYzUwMmFhZ2p5NWI5OHZoOThvbGRpNHYwd3duMWhiOTRtczRzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LuIdivJUOA6KFHhUa6/giphy.webp" />
