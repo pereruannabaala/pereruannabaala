@@ -1,6 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1wOmkcnc3OIGgEB6cX4wtW&ust=1717188431414000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiK-dOftoYDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Pereruan Nabaala</h1>
 <h3 align="center">A passionate Python/Flask developer from Kenya</h3>
+<img align="right" alt="coding" width="404" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pereruannabaala&label=Profile%20views&color=0e75b6&style=flat" alt="pereruannabaala" /> </p>
 
