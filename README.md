@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pereruannabaala](https://github.com/pereruannabaala)
 
-- 💬 Ask me about **Front-end development**
+- 💬 Ask me about **Python for Web development**
 
 - 📫 How to reach me **pereruannabaala@gmail.com**
 
