@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/LuIdivJUOA6KFHhUa6" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LuIdivJUOA6KFHhUa6">via GIPHY</a></p>)
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRhYzUwMmFhZ2p5NWI5OHZoOThvbGRpNHYwd3duMWhiOTRtczRzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LuIdivJUOA6KFHhUa6/giphy.webp)
 <h1 align="center">Hi 👋, I'm Pereruan Nabaala</h1>
 <h3 align="center">A passionate Python/Flask developer from Kenya</h3>
 <img align="right" alt="coding" width="404" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" />
