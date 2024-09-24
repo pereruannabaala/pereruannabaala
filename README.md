@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pereruannabaala" target="blank"><img src="https://img.shields.io/twitter/follow/pereruannabaala?logo=twitter&style=for-the-badge" alt="pereruannabaala" /></a> </p>
 
-- 🔭 I’m currently working on [Integrating Daraja API for MPESA Payments in an E-commerce System](https://github.com/pereruannabaala/Shopify/)
+- 🔭 I’m currently working on [A Speech to Text App Using SpeechRecognition library](https://github.com/pereruannabaala/SpeechTranscriber)
 
 - 🌱 I’m currently using **Python/Flask**
 
