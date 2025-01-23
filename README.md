@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning Computer Vision
 
-- 🌱 I’m currently using **Python/Flask**
+- 🌱 I’m currently using **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pereruannabaala](https://github.com/pereruannabaala)
 
