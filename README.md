@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pereruannabaala&show_icons=true&locale=en" alt="pereruan" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pereruannabaala&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pereruannabaala&theme=default)](https://git.io/streak-stats)
