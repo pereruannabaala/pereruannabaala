@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pereruannabaala@gmail.com**
 
-- ⚡ Fun fact **I can write codes with my eyes closed**
+- ⚡ Fun fact **I can write code with my eyes closed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
