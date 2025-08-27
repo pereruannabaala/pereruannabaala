@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pereruannabaala" target="blank"><img src="https://img.shields.io/twitter/follow/pereruannabaala?logo=twitter&style=for-the-badge" alt="pereruannabaala" /></a> </p>
 
-- 🔭 I’m currently learning **Tensorflow** 
+- 🔭 I’m currently learning **DevOps** 
 
 - 🌱 I’m currently using **Python**
 
