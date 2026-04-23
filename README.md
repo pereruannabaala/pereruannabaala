@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pereruannabaala" target="blank"><img src="https://img.shields.io/twitter/follow/pereruannabaala?logo=twitter&style=for-the-badge" alt="pereruannabaala" /></a> </p>
 
-- 🔭 I’m currently learning **DevOps** 
+- 🔭 I’m currently learning **Machine Learning** 
 
 - 🌱 I’m currently using **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pereruannabaala](https://github.com/pereruannabaala)
 
-- 💬 Ask me about **Python for Web development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **pereruannabaala@gmail.com**
 
